@@ -1,3 +1,5 @@
+![Black Modern Graphic Designer LinkedIn Banner](https://github.com/caglarbaranbora/caglarbaranbora/assets/140960006/ccd7ceab-65bf-42ac-9967-0ef41bea78e5)
+
 <h1 align="center">Hi 👋, I'm Caglar Baran Bora</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
