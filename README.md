@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React-Native, React, JS,**
 
-- 👨‍💻 All of my projects are available at [GitHub](github.com/caglarbaranbora?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/caglarbaranbora)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@caglarbaranbora)
 
