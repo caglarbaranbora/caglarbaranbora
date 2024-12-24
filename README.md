@@ -10,11 +10,9 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@caglarbaranbora)
 
-- 💬 Ask me about **React-Native, React (i am a junior)**
+- 💬 Ask me about **React-Native, React (i am junior)**
 
 - 📫 How to reach me **boracaglarbaran@gmail.com**
-
-- ⚡ Fun fact **Worst FPS player you can see.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
