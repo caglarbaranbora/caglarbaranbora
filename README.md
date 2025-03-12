@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caglar Baran Bora</h1>
 <h3 align="center">A Junior Front-End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caglarabaranbora&label=Profile%20views&color=0e75b6&style=flat" alt="caglarabaranbora" /> </p>
-
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://www.caglarbaranbora.com.tr)
