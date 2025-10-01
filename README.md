@@ -78,20 +78,6 @@ const caglar = {
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=caglarbaranbora&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-## Contribution Graph
-
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=caglarbaranbora&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff)
@@ -110,11 +96,3 @@ while (learning) {
     share(knowledge);
 }
 ```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
-
-</div>
