@@ -1,29 +1,139 @@
-<h1 align="center">Hi 👋, I'm Caglar Baran Bora</h1>
-<h3 align="center">A Junior Front-End Developer</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+# 👨‍💻 Caglar Baran Bora
 
-- 👨‍💻 All of my projects are available at [My Portfolio Website](https://www.caglarbaranbora.com.tr)
+### Junior Front-End Developer | React Specialist
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@caglarbaranbora)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.caglarbaranbora.com.tr)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@caglarbaranbora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caglarbaranbora)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/caglarbaranbora)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boracaglarbaran@gmail.com)
 
-- 💬 Ask me about **React, Tailwind, Sass**
+![Profile Views](https://komarev.com/ghpvc/?username=caglarbaranbora&color=black&style=for-the-badge&label=PROFILE+VIEWS)
 
-- 📫 How to reach me **boracaglarbaran@gmail.com**
+</div>
 
-- 📄 Know about my experiences [My Personal Website](https://www.caglarbaranbora.com.tr/)
+---
 
-- ⚡ Fun fact **Regular game addict.**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/caglarbaranbora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caglarbaranbora" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/caglarbaranbora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caglarbaranbora" height="30" width="40" /></a>
-<a href="https://instagram.com/caglarbaranbora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caglarbaranbora" height="30" width="40" /></a>
-<a href="https://medium.com/@caglarbaranbora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@caglarbaranbora" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/caglarbaranbora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="caglarbaranbora" height="30" width="40" /></a>
-</p>
+```typescript
+const caglar = {
+    currentFocus: ["TypeScript", "Next.js"],
+    expertise: ["React", "Tailwind CSS", "Sass"],
+    passion: "Building elegant user interfaces",
+    funFact: "Regular game addict 🎮",
+    location: "Mersin, Turkey 🇹🇷"
+};
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=caglarbaranbora&theme=dark&hide_border=true" />
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764ABC)
+
+### Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=caglarbaranbora&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=caglarbaranbora&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caglarbaranbora&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caglarbaranbora&theme=github_dark&utcOffset=3" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=caglarbaranbora&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=caglarbaranbora&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff)
+
+</div>
+
+---
+
+## 💻 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+while (learning) {
+    const skills = ['TypeScript', 'Next.js', 'Advanced React Patterns'];
+    improve(skills);
+    build(projects);
+    share(knowledge);
+}
+```
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+**Open for collaborations and interesting projects**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge)](https://www.caglarbaranbora.com.tr)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
+
+</div>
