@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👨‍💻 Caglar Baran Bora
+# CAGLAR BARAN BORA
 
-### Junior Front-End Developer | React Specialist
+### Frontend Developer | React, Next.js, TypeScript, React Native | Crafting Responsive & Scalable Interfaces
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.caglarbaranbora.com.tr)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@caglarbaranbora)
@@ -10,27 +10,25 @@
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/caglarbaranbora)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boracaglarbaran@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=caglarbaranbora&color=black&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=caglarbaranbora&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const caglar = {
-    currentFocus: ["TypeScript", "Next.js"],
+    currentFocus: ["TypeScript", "Next.js, React-Native"],
     expertise: ["React", "Tailwind CSS", "Sass"],
-    passion: "Building elegant user interfaces",
-    funFact: "Regular game addict 🎮",
-    location: "Mersin, Turkey 🇹🇷"
+    location: "Mersin, Turkey"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -38,17 +36,22 @@ const caglar = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-000000?style=for-the-badge&logo=reacthookform&logoColor=EC5990)
+![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3E67B1)
+![Axios](https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=5A29E4)
 
-### Styling
+### Styling & UI
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
@@ -77,7 +80,7 @@ const caglar = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -87,7 +90,7 @@ const caglar = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -97,25 +100,11 @@ const caglar = {
 
 ---
 
-## 💻 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🎯 Current Focus
 
 ```javascript
 while (learning) {
-    const skills = ['TypeScript', 'Next.js', 'Advanced React Patterns'];
+    const skills = ['TypeScript', 'Next.js', 'React-Native'];
     improve(skills);
     build(projects);
     share(knowledge);
@@ -125,14 +114,6 @@ while (learning) {
 ---
 
 <div align="center">
-
-### 💬 Let's Connect!
-
-**Open for collaborations and interesting projects**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge)](https://www.caglarbaranbora.com.tr)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
 
