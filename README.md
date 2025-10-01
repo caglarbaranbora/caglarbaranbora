@@ -62,7 +62,7 @@ const caglar = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -86,7 +86,7 @@ const caglar = {
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```javascript
 while (learning) {
